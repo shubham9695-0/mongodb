@@ -1,13 +1,13 @@
-# MEAL_INFORMATION " PROJECT'0' "
+# MEAL_INFORMATION  
   shubham file:
 #  Function we have perform
         1.Install package PYMONGO
         2.Create Database
         3.Attach meal_info.json file into the source code.
         4.Call the function.
-# Use MongoDb for Nosql database
+#  MongoDb use for Nosql database
         1. Meal information (Mongodb).
-# Basic Requirements
+#  Requirements
         1. python3.8
         2. MongoDB Compass
        
